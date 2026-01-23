@@ -8,6 +8,7 @@
 - 📝 I regularly write articles on [https://sujipthapa.com](https://sujipthapa.com)
 
 - 💬 Ask me about **React, Laravel, APIs**
+- I use Bitbucket heavily at my work, and Github only showcase my personal projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
