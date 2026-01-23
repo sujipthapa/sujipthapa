@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sujip Thapa</h1>
-<h3 align="center">Highly skilled, energetic and motivated Senior Software Engineer with over 10 years of expertise in designing, developing, and delivering scalable cutting-edge web applications and eCommerce solutions.</h3>
+<h3 align="left">
+  Personal Summary  
+</h3>
+
+- Dynamic and results-driven Senior Software Engineer with over a decade of experience in designing, developing, and delivering innovative web applications and eCommerce solutions.
+- Expertise in leveraging cutting-edge technologies and industry best practices to create scalable, user-friendly solutions, with a strong focus on backend-oriented full-stack development utilizing React, Laravel, and DevOps methodologies. 
+- Recognized for a positive attitude and strong work ethic, consistently delivering high-quality outcomes in both remote and collaborative environments.
+- Eager to embrace new challenges and expand technical proficiency across various backend and frontend languages, libraries, and cloud platforms, demonstrating a proven ability to adapt quickly and achieve impactful results.
 
 - 🌱 I’m currently learning **NodeJs, Express, Python**
 
