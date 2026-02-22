@@ -8,16 +8,63 @@
 - Recognized for a positive attitude and strong work ethic, consistently delivering high-quality outcomes in both remote and collaborative environments.
 - Eager to embrace new challenges and expand technical proficiency across various backend and frontend languages, libraries, and cloud platforms, demonstrating a proven ability to adapt quickly and achieve impactful results.
 
-- 🌱 I’m currently learning **NodeJs, Express, Python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/sudiptpa](https://github.com/sudiptpa)
-
-- 📝 I regularly write articles on [https://sujipthapa.com](https://sujipthapa.com)
-
-- 💬 Ask me about **React, Laravel, APIs**
 - I use Bitbucket heavily at my work, and Github only showcase my personal projects.
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 Recent Open Source Work
+
+### [`sudiptpa/paypal-notifications`](https://github.com/sudiptpa/paypal-notifications) (v1.1.0)
+Framework-agnostic PayPal notifications SDK (Webhooks + legacy IPN), focused on production safety.
+
+- Typed webhook event models across major PayPal domains
+- Signature verification hardening + failure-mode handling
+- Retry strategy controls for verification calls
+- Persisted token cache patterns + idempotency extensions
+- Minimal dependencies, extensible transport architecture
+- CI + tests + static analysis, architecture and extension docs
+
+### [`sudiptpa/esewa`](https://github.com/sudiptpa/esewa) (v3.x)
+Modernized eSewa integration package with model-based payloads and secure callback verification.
+
+- ePay v2-aligned architecture
+- Signature verification and anti-fraud checks
+- Typed domain models for checkout/verification/status
+- Framework-agnostic core and test-friendly contracts
+
+### [`sudiptpa/ipstack`](https://github.com/sudiptpa/ipstack) (v2.x)
+Modern PHP client for ipstack geolocation APIs.
+
+- Clean factory/client architecture
+- Typed response models and mapper layer
+- PSR-18 transport support and custom transport contract
+- Robust exception model, test coverage, CI matrix
+
+### [`sudiptpa/guid`](https://github.com/sudiptpa/guid) (v3.x)
+Lightweight standalone GUID generator for modern PHP.
+
+- Zero runtime dependencies
+- Stable API: `Guid::create()` and `guid()`
+- Quality gates: tests, static checks, CI
+
+## 🧩 Featured Projects
+- [PayPal Notifications PHP SDK](https://github.com/sudiptpa/paypal-notifications)
+- [eSewa PHP Package](https://github.com/sudiptpa/esewa)
+- [ipstack PHP Client](https://github.com/sudiptpa/ipstack)
+- [PHP GUID](https://github.com/sudiptpa/guid)
+
+- 🌱 I’m currently learning **NodeJs, Express, Python**
+
+## 📝 Writing
+I write technical posts at [https://sujipthapa.com](https://sujipthapa.com)
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sujipthapa&show_icons=true&hide_border=true&rank_icon=github)
+
+- 💬 Ask me about **React, Laravel, APIs**
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/sujipthapa)
+- Email: sudiptpa@gmail.com
+  
 <p align="left">
 </p>
 
